@@ -5,6 +5,7 @@ export const NavLinks = [
     { text: "Blog", href: "/blog" },
 ]
 
-export const SignUpLink = {
-    text: "Get Started", href: "/signup"
-}
+export const authenticationLinks = [
+    { text: "Get Started", href: "/signup" },
+    { text: "Login", href: "/login" }
+];
