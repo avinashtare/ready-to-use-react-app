@@ -10,7 +10,7 @@ pip clone https://github.com/avinashtare/ready-to-use-react-app.git
 ```shell
 cd ready-to-use-react-app
 ```
-
+or
 ```shell
 yarn
 ```
