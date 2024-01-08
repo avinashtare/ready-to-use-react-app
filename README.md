@@ -3,7 +3,7 @@
 Create a react app fast with additinal components.
 
 ```shell
-pip clone https://github.com/avinashtare/ready-to-use-react-app.git
+git clone https://github.com/avinashtare/ready-to-use-react-app.git
 ```
 
 
